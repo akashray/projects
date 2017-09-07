@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+body {
+	color: blue;
+	font-size: 22px;
+	text-align: center
+}
+a {
+	display: block;
+}
+h3 {
+	color:orange;
+	font-size: 28px
+}
+form {
+    width: 500px;
+    margin:  auto;
+}
+.div1 {
+	display: inline-block;
+	 white-space: nowrap;
+}
