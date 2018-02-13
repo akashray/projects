@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  mypostgresql1:
+  - apiVersion: v1
+    created: 2018-02-13T07:46:24.722132743Z
+    description: A Helm chart for Kubernetes
+    digest: 36f0a0d66d6648589d9e112ec18e71a3e95c9168b54796c72b6a4a10b695db15
+    name: mypostgresql1
+    urls:
+    - https://my-charts.com/mypostgresql1-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-02-13T07:46:24.721670142Z
